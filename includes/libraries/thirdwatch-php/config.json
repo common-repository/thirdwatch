@@ -1,0 +1,10 @@
+{
+  "artifactVersion":"0.0.1",
+  "invokerPackage":"ai\\thirdwatch",
+  "gitRepoId": "thirdwatch-php",
+  "gitUserId": "thirdwatch",
+  "packagePath": "thirdwatch-php",
+  "srcBasePath": "thirdwatch_api",
+  "composerVendorName": "thirdwatch",
+  "composerProjectName": "thirdwatch-php"
+}
